@@ -1,0 +1,41 @@
+{
+  "pages":[
+    "pages/audio/audio",
+    "pages/index/index",
+    "pages/movie/moive",
+    "pages/my/my",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f9b9d6",
+    "navigationBarTitleText": "HighStop & 潘多拉之盒",
+    "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "selectedColor":"#d6204b",
+    "backgroundColor":"#f9b9d6",
+    "borderStyle":"black",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath":"./public/image/icon/home.png",
+      "selectedIconPath":"./public/image/icon/home_selected.png"
+    }, {
+      "pagePath": "pages/audio/audio",
+      "text": "音乐",
+      "iconPath":"./public/image/icon/audio.png",
+      "selectedIconPath":"./public/image/icon/audio_selected.png"
+    }, {
+      "pagePath": "pages/movie/moive",
+      "text": "电影",
+      "iconPath":"./public/image/icon/movie.png",
+      "selectedIconPath":"./public/image/icon/movie_selected.png"
+    }, {
+      "pagePath": "pages/my/my",
+      "text": "我",
+      "iconPath":"./public/image/icon/my.png",
+      "selectedIconPath":"./public/image/icon/my_selected.png"
+    }]
+  }
+}

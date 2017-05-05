@@ -1,0 +1,40 @@
+#myAudio{
+    margin:10px 25px; 
+}
+p{
+    margin-left:25px; 
+}
+.music{
+    border: 1px solid #eee;
+    padding: 15px;
+    height: 100px;
+}
+.musicPoster{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.musicPoster image{
+    
+    width: 100px;
+    height:100px;
+}
+.musicName{
+    margin-left: 120px;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 24px;
+    font-size: 14px;
+    color: #333;
+}
+.musicAuthor{
+    margin-left: 120px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+.play-music{width:608rpx;margin-left:50rpx;margin-bottom:10rpx}
+.play-music image{width:48rpx;height:48rpx;margin:10rpx;}
+.icon-play{text-align: center;}
+.lrc{text-align: center;color:#1afa29;margin-top:10rpx;}
+.playlist{font:32rpx/32rpx '';margin:10rpx 0 14rpx 50rpx;}
