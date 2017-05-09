@@ -1,19 +1,15 @@
-// pages/my/my.js
 Page({
-  data:{},
-  onLoad:function(options){
-    // 页面初始化 options为页面跳转所带来的参数
-  },
-  onReady:function(){
-    // 页面渲染完成
-  },
-  onShow:function(){
-    // 页面显示
-  },
-  onHide:function(){
-    // 页面隐藏
-  },
-  onUnload:function(){
-    // 页面关闭
+  data:{
+    name:"高婷",
+    come:"浙江 杭州",
+    tel:"15191609459",
+    email:"15191609459@163.com",
+    skill:["html5","css3","es5","jquery","gulp",
+           "bootstrap","wechatapp","angularjs",
+           "seajs","d3js","reactjs","vuejs"],
+    want:"12K",
+    job:"两年",
+    graduated:"本科",
+    major:"物联网",
   }
 })

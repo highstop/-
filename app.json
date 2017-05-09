@@ -1,7 +1,7 @@
 {
   "pages":[
-    "pages/audio/audio",
     "pages/index/index",
+    "pages/audio/audio",
     "pages/movie/moive",
     "pages/my/my",
     "pages/logs/logs"
